@@ -57,7 +57,7 @@ class _HydroState extends State<Hydro> {
       FixOMLocIn = _prefs.getDouble('FixOMLocIn') ?? 0.1255;
       FixOMForIn = _prefs.getDouble('FixOMForIn') ?? 0.2188;
       ROEIn = _prefs.getDouble('ROEIn') ?? 1.0699;
-      ROEDCIn = _prefs.getDouble('ROEDCIn') ?? 0.8922;
+      ROEDCIn = _prefs.getDouble('ROEDCIn') ?? 0.8923;
 
       //Variable
       VarOMForIn = _prefs.getDouble('VarOMForIn') ?? 0.1044;
