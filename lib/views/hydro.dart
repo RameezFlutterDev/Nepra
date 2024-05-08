@@ -60,7 +60,7 @@ class _HydroState extends State<Hydro> {
       ROEDCIn = _prefs.getDouble('ROEDCIn') ?? 0.8923;
 
       //Variable
-      VarOMForIn = _prefs.getDouble('VarOMForIn') ?? 0.1044;
+      VarOMForIn = _prefs.getDouble('VarOMForIn') ?? 0.1045;
       WatUseChIn = _prefs.getDouble('WatUseChIn') ?? 0.2159;
 
       //Indexation
