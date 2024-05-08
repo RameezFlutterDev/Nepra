@@ -61,7 +61,7 @@ class _HydroState extends State<Hydro> {
 
       //Variable
       VarOMForIn = _prefs.getDouble('VarOMForIn') ?? 0.1044;
-      WatUseChIn = _prefs.getDouble('WatUseChIn') ?? 0.2154;
+      WatUseChIn = _prefs.getDouble('WatUseChIn') ?? 0.2159;
 
       //Indexation
       USCpiRef = _prefs.getDouble('USCpiRef') ?? 208.49;
