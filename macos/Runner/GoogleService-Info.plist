@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDLIcg52im_ReANHBaF0M1sia2QEuO-ptU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>362191676384</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.nepraproj.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>nepraproject</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nepraproject.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:362191676384:ios:6cac1a47700babe68f0185</string>
+</dict>
+</plist>

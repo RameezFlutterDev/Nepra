@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362191676384",
+    "project_id": "nepraproject",
+    "storage_bucket": "nepraproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362191676384:android:d84b050f8b9a59648f0185",
+        "android_client_info": {
+          "package_name": "com.example.nepraproj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkyi2cfvPvyTuiPQ31luOblMnJpgDd5cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
